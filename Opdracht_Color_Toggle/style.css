@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(211, 207, 207);
+}
+
+.grey-background {
+    background-color: rgb(211, 207, 207);
+}
+
+.red-background {
+    background-color: red;
+}
+
+.orange-background {
+    background-color: orange;
+}
+
+.purple-background {
+    background-color: purple;
+}
+
+.green-background {
+    background-color: green;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;    
+    z-index: 1000;
+}
+
+#menu-icon {
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.drop-btns {
+    width: 240px;
+    height: 40px;
+    border-width: 5px;
+    border-style: solid;
+    border-color:black;
+    margin: 3px;
+    text-align: center;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.menu-visi {
+    visibility: hidden;
+}
+
+.home-btn {
+    background-color: gray;
+}
+
+.red-btn {
+    background-color: red;
+}
+
+.orange-btn {
+    background-color: orange;
+}
+
+.purple-btn {
+    background-color: purple;
+}
+
+.green-btn {
+    background-color: green;
+}
+
